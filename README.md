@@ -1,7 +1,7 @@
 Fake Translator
 ===========
 
-Replace page content with fake text of selected language
+Replace page content with fake text of selected language. This is mostly `for fun`, but also could be useful to check pages with different languages used.
 
 How to use
 ----------
